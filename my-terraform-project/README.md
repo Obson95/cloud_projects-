@@ -32,7 +32,7 @@ This project uses Terraform to automate the deployment of cloud infrastructure o
 
    # Initialize Terraform
     terraform plan   
-    ![init](/cloud_projects-/images/terraform init.PNG)
+    ![terraform apply](https://github.com/Obson95/cloud_projects-/assets/109316664/2bb5f5a5-26ec-4ebd-bcd3-c9a7b6d19704)
 
 
    # Plan the Deployment
