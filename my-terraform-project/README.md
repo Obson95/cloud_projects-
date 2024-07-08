@@ -31,15 +31,25 @@ This project uses Terraform to automate the deployment of cloud infrastructure o
 2. **Command used during the process:**
 
    # Initialize Terraform
-    terraform plan   
-    ![terraform apply](https://github.com/Obson95/cloud_projects-/assets/109316664/2bb5f5a5-26ec-4ebd-bcd3-c9a7b6d19704)
+    terraform init 
+
+   ![terraform init](https://github.com/Obson95/cloud_projects-/assets/109316664/7a6b2b25-bcf2-4ab3-b1e6-2da3fc88e1ed)
 
 
    # Plan the Deployment
     terraform plan
 
+    ![terraform plan](https://github.com/Obson95/cloud_projects-/assets/109316664/cfd1eb34-2cfb-4ef3-bc6a-b8d83ff7d496)
+
+
    # Apply the Configuration
     terraform apply
 
+    ![terraform apply](https://github.com/Obson95/cloud_projects-/assets/109316664/5d8738d6-dbad-4e2b-b350-da716f276286)
+
+
+3. **Proof of the resource group created in azure portal**
+
+![azure proof](https://github.com/Obson95/cloud_projects-/assets/109316664/bb11ce24-85d1-4bee-86f2-b4525af170db)
 
 
