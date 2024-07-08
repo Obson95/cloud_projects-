@@ -23,7 +23,8 @@ This project uses Terraform to automate the deployment of cloud infrastructure o
 1. **Clone the Repository:**
 
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/Obson95/Cloud_Projects-.git
+   
    cd <repository-directory>
 
 
@@ -31,6 +32,8 @@ This project uses Terraform to automate the deployment of cloud infrastructure o
 
    # Initialize Terraform
     terraform plan   
+    ![init](images/terraform init.PNG)
+
 
    # Plan the Deployment
     terraform plan
